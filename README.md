@@ -1,4 +1,4 @@
-This is a template thesis of RUC(Republic University of China). Thanks to the **bookdown**(https://github.com/rstudio/bookdown), now you can write your thesis using the Rmarkdown syntax.
+This is a template thesis of RUC(Renmin University of China). Thanks to the **bookdown**(https://github.com/rstudio/bookdown), now you can write your thesis using the Rmarkdown syntax.
 
 # Usage
 
